@@ -1,0 +1,5 @@
+{
+  "name": "MediQuest AI - Patient Module",
+  "description": "A comprehensive GenAI-powered healthcare dashboard for patients to manage medical history, log symptoms, analyze reports, and receive AI health insights.",
+  "requestFramePermissions": []
+}
